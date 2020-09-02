@@ -1,1 +1,2 @@
-# ETL-Project
+# etl_project
+Pokémon project
